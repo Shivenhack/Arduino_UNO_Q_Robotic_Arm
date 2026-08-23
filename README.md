@@ -18,6 +18,6 @@ This is my first prototype project as a 7th grader, where I built a robotic arm 
 - Add onboard camera to remove PC dependency.
 - Upgrade to material detection using AI.
 
-# Youtube Link 
+## Youtube Link 
 https://youtu.be/GKL3kyJKa7I
 
