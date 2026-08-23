@@ -1,0 +1,15 @@
+profiles:
+  default:
+    fqbn: 
+    platforms:
+      - platform: arduino:zephyr
+    libraries:
+      - dependency: Adafruit BusIO (1.17.4)
+      - Adafruit PWM Servo Driver Library (3.0.3)
+      - ServoMotor (1.1.0)
+      - Servo_Motor_Module (0.5.4)
+      - Servo (1.3.0)
+      - Adafruit GFX Library (1.12.6)
+      - Adafruit SH110X (2.1.15)
+
+default_profile: default
